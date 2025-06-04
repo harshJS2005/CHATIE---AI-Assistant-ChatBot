@@ -45,14 +45,14 @@ This is a simple, responsive web-based chatbot interface that communicates with 
    ```js
    const Api_Url = "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=YOUR_API_KEY_HERE"
    
-📝 Notes
+## 📝 Notes
 You must have a valid Gemini API key from Google AI Studio.
 
 The uploaded image is converted to Base64 and sent as inline content.
 
 This version does not support voice or audio inputs.
 
-🧪 Future Improvements
+## 🧪 Future Improvements
 
 Chat history saving
 
